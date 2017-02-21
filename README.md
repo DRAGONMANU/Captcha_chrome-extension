@@ -1,5 +1,8 @@
 # Create a Chrome extension to solve Moodle Captcha
 
+Please refresh the moodle page if it doesn't work the first time, 
+Gotta fix that bug!
+
 This was done as time pass to save time to automatically solve the irritating captcha on Moodle
 
 Download the zip and extract to any desired directory.
