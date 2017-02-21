@@ -1,3 +1,3 @@
-# Create a Chrome extension to modify a website's HTML or CSS
+# Create a Chrome extension to solve Moodle Captcha
 
-See post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+This was done as time pass to save time to automatically solve the irritating captcha on Moodle
