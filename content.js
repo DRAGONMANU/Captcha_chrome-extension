@@ -35,5 +35,8 @@ else
 console.log(splits[4]);
 console.log(splits[6]);
 console.log(splits[8]);
+var delayMillis = 500;
 
-document.getElementById("valuepkg3").value = nameValue;
+setTimeout(function() {
+ document.getElementById("valuepkg3").value = nameValue;
+}, delayMillis);
