@@ -10,3 +10,5 @@ Enable developer option in chrome extensions tab
 Click add "Load unpacked extension" and choose this directory
 The extension is enabled and THATS IT!!
 Moodle Captcha will be a dust in the past!
+
+By the way, if you handle Moodle, please note this security flaw and make the captcha more challenging if needed.
